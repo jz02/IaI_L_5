@@ -1,0 +1,11 @@
+a
+{
+color: red;
+}
+a:hover
+{
+background-color: green;
+color: red;
+transition: all 1s;
+padding: 15px;
+}
